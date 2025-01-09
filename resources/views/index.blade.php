@@ -241,7 +241,7 @@
             </div>
             <div>
                 <label for="ISBN">ISBN:</label>
-                <input type="text" name="ISBN" id="ISBN" required>
+                <input type="number" name="ISBN" id="ISBN" required>
             </div>
             <div>
                 <label for="TahunTerbit">Tahun Terbit:</label>
